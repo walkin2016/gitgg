@@ -4,3 +4,4 @@ Creating a new branch is quick.
 
 Creating a new branch is quick AND simple.
 merge add --no-ff
+bug branch
